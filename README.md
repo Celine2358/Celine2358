@@ -1,6 +1,6 @@
 <div align="center">
 
-# ☁️ 이준빈 | Game & Software Developer
+# ☁️ 이준빈 | Game Developer
 
 ### Creating Games in the World of Cernia
 
