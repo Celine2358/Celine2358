@@ -12,7 +12,7 @@ Unity와 C#을 중심으로 게임과 소프트웨어를 개발하고 있습니�
 
 <br>
 
-### ✨ Main Tech Stack
+### Main Tech Stack
 
 <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white">
 <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white">
@@ -56,3 +56,39 @@ public class Celine
         Console.WriteLine("Creating the world of Cernia...");
     }
 }
+
+🎮 Main Projects
+<table> <tr> <td width="50%" align="center">
+✨ Magic Celine
+<img src="./assets/magic-celine.png" width="360">
+2D Action RPG
+
+Unity · C#
+
+직접 개발하고 있는
+2D 액션 RPG 프로젝트입니다.
+
+캐릭터 성장, 전투, 스킬, 몬스터 AI,
+아이템, 퀘스트, 보스전과 월드 시스템을
+직접 설계하고 구현하고 있습니다.
+
+Current Stage : Beta
+
+</td> <td width="50%" align="center">
+☁️ Flying Cernia
+<img src="./assets/flying-cernia.png" width="450">
+2D Flight Action Game
+
+Unity · C#
+
+Magic Celine의 세계인
+세르니아를 배경으로 제작하는
+2D 비행 액션 게임입니다.
+
+비행 조작, 장애물, 점수 시스템,
+랭크, 업적과 온라인 랭킹 시스템을
+개발하고 있습니다.
+
+Current Stage : Beta Development
+
+</td> </tr> </table>
