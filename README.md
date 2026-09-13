@@ -35,27 +35,6 @@ Unity와 C#을 중심으로 게임과 소프트웨어를 개발하고 있습니�
 현재는 **Magic Celine**과 **Flying Cernia**를 중심으로  
 세르니아라는 세계의 게임과 여러 개발 프로젝트를 만들어가고 있습니다.
 
-```csharp
-public class Celine
-{
-    public string Name => "Celine";
-
-    public string[] Interests =>
-    {
-        "Game Development",
-        "Software Engineering",
-        "Artificial Intelligence",
-        "Game Engine Architecture",
-        "Tools Development"
-    };
-
-    public string MainLanguage => "C#";
-
-    public void Create()
-    {
-        Console.WriteLine("Creating the world of Cernia...");
-    }
-}
 
 🎮 Main Projects
 <table> <tr> <td width="50%" align="center">
@@ -92,3 +71,26 @@ Magic Celine의 세계인
 Current Stage : Beta Development
 
 </td> </tr> </table>
+
+
+```csharp
+public class Celine
+{
+    public string Name => "Celine";
+
+    public string[] Interests =>
+    {
+        "Game Development",
+        "Software Engineering",
+        "Artificial Intelligence",
+        "Game Engine Architecture",
+        "Tools Development"
+    };
+
+    public string MainLanguage => "C#";
+
+    public void Create()
+    {
+        Console.WriteLine("Creating the world of Cernia...");
+    }
+}
