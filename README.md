@@ -1,16 +1,58 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Celine2358/Celine2358** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ☁️ 이준빈 | Game & Software Developer
 
-Here are some ideas to get you started:
+### Creating Games, Tools, AI and the World of Cernia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+Unity와 C#을 중심으로 게임과 소프트웨어를 개발하고 있습니다.  
+게임 시스템, 데스크톱 애플리케이션, AI와 기계학습까지  
+직접 설계하고 구현하는 것을 좋아합니다.
+
+<br>
+
+### ✨ Main Tech Stack
+
+<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white">
+<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white">
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000">
+
+</div>
+
+---
+
+# ☁️ About Me
+
+안녕하세요! 게임과 소프트웨어를 만드는 개발자 **이준빈**입니다.
+
+게임을 단순히 플레이 가능한 형태로 만드는 것뿐만 아니라  
+그 안에서 동작하는 **전투 시스템, 캐릭터 구조, 데이터 관리, AI, UI, 도구와 서버 시스템**까지 직접 만들어보는 것을 좋아합니다.
+
+현재는 **Magic Celine**과 **Flying Cernia**를 중심으로  
+세르니아라는 세계의 게임과 여러 개발 프로젝트를 만들어가고 있습니다.
+
+```csharp
+public class Celine
+{
+    public string Name => "Celine";
+
+    public string[] Interests =>
+    {
+        "Game Development",
+        "Software Engineering",
+        "Artificial Intelligence",
+        "Game Engine Architecture",
+        "Tools Development"
+    };
+
+    public string MainLanguage => "C#";
+
+    public void Create()
+    {
+        Console.WriteLine("Creating the world of Cernia...");
+    }
+}
