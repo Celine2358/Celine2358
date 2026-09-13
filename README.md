@@ -19,6 +19,8 @@ Unity와 C#을 중심으로 게임과 소프트웨어를 개발하고 있습니�
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000">
+![Avalonia UI](https://img.shields.io/badge/Avalonia_UI-8B44AC?style=for-the-badge&logo=avaloniaui&logoColor=white)
+![Spine](https://img.shields.io/badge/Spine-FF4000?style=for-the-badge&logo=spine&logoColor=white)
 
 </div>
 
