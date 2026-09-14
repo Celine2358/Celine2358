@@ -11,24 +11,26 @@ Unity와 C#을 중심으로 게임과 소프트웨어를 개발하고 있습니�
 직접 설계하고 구현하는 것을 좋아합니다.
 <br>
 
-### 🛠 Main Tech Stack
+### Main Tech Stack
 
 <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white">
 <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white">
 <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000">
 <img
 src="https://img.shields.io/badge/Avalonia_UI-8B44AC?style=for-the-badge&logo=avaloniaui&logoColor=white">
 <img
 src="https://img.shields.io/badge/Spine-FF4000?style=for-the-badge&logo=spine&logoColor=white">
+<img src="https://img.shields.io/badge/OpenCvSharp-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000">
 
 </div>
 
 ---
 
-# ☁️ About Me
+# About Me
 
 안녕하세요! 게임과 소프트웨어를 만드는 개발자 **이준빈**입니다.
 
@@ -41,7 +43,7 @@ src="https://img.shields.io/badge/Spine-FF4000?style=for-the-badge&logo=spine&lo
 
 ---
 
-# 🎮 Main Projects
+# Main Projects
 
 <table>
 <tr>
