@@ -28,6 +28,8 @@ src="https://img.shields.io/badge/Spine-FF4000?style=for-the-badge&logo=spine&lo
 
 </div>
 
+![Celine's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_ID&layout=compact&title_color=E9C8FF&text_color=F7EEFF&bg_color=151022&border_color=8F6BC7&icon_color=FFD6F5)
+
 ---
 
 # About Me
