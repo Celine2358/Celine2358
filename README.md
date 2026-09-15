@@ -28,7 +28,14 @@ src="https://img.shields.io/badge/Spine-FF4000?style=for-the-badge&logo=spine&lo
 
 </div>
 
-![Celine's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Celine2358&layout=compact&title_color=E9C8FF&text_color=F7EEFF&bg_color=151022&border_color=8F6BC7&icon_color=FFD6F5)
+<div align="center">
+<br>
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Celine2358&theme=tokyonight"
+width="410"
+/>
+
+</div>
 
 ---
 
